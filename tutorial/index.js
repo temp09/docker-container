@@ -9,7 +9,7 @@ Metalsmith(__dirname)
   .metadata({
     title: "A Docker Tutorial for Beginners",
     description: "Learn to build and deploy your distributed applications easily to the cloud with Docker",
-    author: "Prakhar Srivastav",
+    author: "Amdad Ullah",
     url: "https://docker-curriculum.com/",
     logo: "https://docker-curriculum.com/images/logo-small.png",
   })

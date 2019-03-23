@@ -1,5 +1,5 @@
 {
-  "name": "docker-curriculum",
+  "name": "docker-container",
   "version": "0.0.1",
   "description": "<a id=\"top\"></a> # Docker for Beginners",
   "main": "index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prakhar1989/docker-curriculum.git"
+    "url": "git+https://github.com/temp09/docker-container.git"
   },
-  "author": "Prakhar Srivastav <prakhar1989@gmail.com>",
+  "author": "Amdad Ullah <amdad711@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/prakhar1989/docker-curriculum/issues"
+    "url": "https://github.com/temp09/docker-container.git/issues"
   },
-  "homepage": "https://github.com/prakhar1989/docker-curriculum#readme",
+  "homepage": "https://github.com/temp09/docker-container#readme",
   "dependencies": {
     "handlebars": "^4.0.11",
     "metalsmith": "^2.1.0",
