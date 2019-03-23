@@ -21,6 +21,7 @@ pipeline {
           } */
           stage('Docker build') {
                                  steps {
+                                      bat 'cd flask-app'
                                       bat 'docker build -f Dockerfile -t amdad/catnip_v1 .'
                                  }
                             }
