@@ -26,7 +26,7 @@ pipeline {
                             }
           stage('Docker push') {
                                  steps {
-                               bat 'docker login -u amdad -p Mywork@098'
+                               bat 'docker login -u amdad -p *******'
                                bat 'docker push amdad/catnip_v1'
                                  }
           }
